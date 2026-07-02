@@ -1,4 +1,4 @@
-# ZotLite — Zotero AI 阅读助手
+# ZotLite — Zotero AI 阅读助手-Zotero插件
 
 > 为 Zotero 打造的一体化 AI 文献阅读助手：智能问答、PDF 高精度解析、原文位置一键跳转、影响因子与引用量展示、元数据一键补全。
 
