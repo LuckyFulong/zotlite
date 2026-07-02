@@ -3,9 +3,9 @@
     "zotlite@LuckyFulong.github.io": {
       "updates": [
         {
-          "version": "1.0.2",
-          "update_link": "https://github.com/LuckyFulong/zotlite/releases/download/v1.0.2/zot-lite.xpi",
-          "update_hash": "sha512:8591adc12344553bb102bd1ee00879d8eac86e5ad646ff007d64b7898d08201685fae3e024926f925c09dc9a0de386c5daed5ae1996fdbcc57eb946d1d498a1d",
+          "version": "1.0.3",
+          "update_link": "https://github.com/LuckyFulong/zotlite/releases/download/v1.0.3/zot-lite.xpi",
+          "update_hash": "sha512:c8978146173b773e987104994221f109e48c69ede2840b6a12a2b08f9cdad873e38725e501e606f99d173b698ca24e1dd44e1ef480dabcd63501c6aa30777262",
           "applications": {
             "zotero": {
               "strict_min_version": "6.999",
