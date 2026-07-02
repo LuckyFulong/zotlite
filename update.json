@@ -1,0 +1,19 @@
+{
+  "addons": {
+    "zotlite@LuckyFulong.github.io": {
+      "updates": [
+        {
+          "version": "1.0.2",
+          "update_link": "https://github.com/LuckyFulong/zotlite/releases/download/v1.0.2/zot-lite.xpi",
+          "update_hash": "sha512:8591adc12344553bb102bd1ee00879d8eac86e5ad646ff007d64b7898d08201685fae3e024926f925c09dc9a0de386c5daed5ae1996fdbcc57eb946d1d498a1d",
+          "applications": {
+            "zotero": {
+              "strict_min_version": "6.999",
+              "strict_max_version": "10.0"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
